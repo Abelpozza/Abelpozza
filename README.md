@@ -27,6 +27,8 @@ Tenho conhecimento em **arquitetura em camadas, MVVM, consumo de APIs e boas pr�
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Firebird](https://img.shields.io/badge/Firebird-FF6C37?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### ⚙️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -39,8 +41,8 @@ Tenho conhecimento em **arquitetura em camadas, MVVM, consumo de APIs e boas pr�
 
 ### 🔐 Login Screen App
 Aplicação Android com foco em arquitetura MVVM e gerenciamento de estado.
-- StateFlow
-- Validação de campos
+- StateFlow  
+- Validação de campos  
 - Jetpack Compose  
 
 🔗 https://github.com/Abelpozza/AnotherTest
@@ -60,14 +62,6 @@ App Android com navegação entre telas.
 Projeto Android para gerenciamento de medicamentos.
 - Arquitetura organizada  
 - Integração com backend  
-
----
-
-## 📊 Estatísticas GitHub
-
-![Abel GitHub stats](https://github-readme-stats.vercel.app/api?username=Abelpozza&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abelpozza&layout=compact&theme=tokyonight)
 
 ---
 
