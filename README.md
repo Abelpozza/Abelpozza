@@ -34,6 +34,8 @@ Tenho conhecimento em **arquitetura em camadas, MVVM, consumo de APIs e boas pr√
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
