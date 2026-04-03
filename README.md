@@ -50,7 +50,7 @@ API para gerenciamento de estacionamento inteligente com controle de vagas, entr
 - Regras de negócio (ocupação, faturamento, controle de vagas)  
 - Docker + Postman  
 
-🔗 https://github.com/Abelpozza/AnotherTest *(ajusta se necessário pro repo correto)*
+🔗 https://github.com/Abelpozza/parking-api 
 
 ---
 
