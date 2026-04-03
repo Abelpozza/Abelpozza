@@ -1,16 +1,18 @@
 # 👋 Olá, eu sou o Abel Pozza
 
-💻 Desenvolvedor Backend e Mobile  
-🚀 Foco em Java, Kotlin, Spring Boot e Android  
+💻 Desenvolvedor Backend e Android  
+🚀 Kotlin | Spring Boot | Jetpack Compose | PostgreSQL  
 📍 Florianópolis - SC  
 
 ---
 
 ## 🧠 Sobre mim
 
-Desenvolvedor com experiência em **Backend (Spring Boot)** e **Android (Jetpack Compose)**, atuando na construção de APIs REST, integração com banco de dados e desenvolvimento de aplicações mobile com arquitetura moderna.
+Desenvolvedor com foco em **Backend utilizando Kotlin e Spring Boot**, com experiência prática na construção de **APIs REST**, integração com banco de dados e implementação de regras de negócio.
 
-Tenho conhecimento em **arquitetura em camadas, MVVM, consumo de APIs e boas práticas de desenvolvimento**, além de experiência com resolução de problemas em ambiente de produção.
+Também atuo no desenvolvimento **Android com Jetpack Compose**, criando interfaces modernas e organizadas com boas práticas como MVVM e separação em camadas.
+
+Minha experiência como suporte N2 fortaleceu minha visão sistêmica, análise de problemas e entendimento de regras de negócio em sistemas reais.
 
 ---
 
@@ -21,7 +23,7 @@ Tenho conhecimento em **arquitetura em camadas, MVVM, consumo de APIs e boas pr�
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### 💻 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🗄️ Banco de Dados
@@ -34,44 +36,64 @@ Tenho conhecimento em **arquitetura em camadas, MVVM, consumo de APIs e boas pr�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git Bash](https://img.shields.io/badge/Git%20Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ---
 
-## 📱 Projetos em destaque
+## 🚀 Projetos em destaque
 
-### 🔐 Login Screen App
-Aplicação Android com foco em arquitetura MVVM e gerenciamento de estado.
-- StateFlow  
-- Validação de campos  
+### 🚗 Parking Management API (Backend)
+API para gerenciamento de estacionamento inteligente com controle de vagas, entrada/saída de veículos e cálculo de faturamento em tempo real.
+
+- Kotlin + Spring Boot  
+- PostgreSQL + JPA/Hibernate  
+- Webhook para eventos em tempo real  
+- Regras de negócio (ocupação, faturamento, controle de vagas)  
+- Docker + Postman  
+
+🔗 https://github.com/Abelpozza/AnotherTest *(ajusta se necessário pro repo correto)*
+
+---
+
+### 📊 Parking Interface (Dashboard)
+Interface integrada ao backend para visualização de veículos, vagas e faturamento, validando dados diretamente com o banco.
+
+- Integração com API backend  
+- Visualização em tempo real  
+- Sincronização com PostgreSQL  
+
+🔗 https://github.com/Abelpozza/interfaceEstacionamento
+
+---
+
+### 🔐 AuthFlow Android (Firebase + Compose)
+Aplicação Android com autenticação de usuários e navegação entre telas utilizando Firebase.
+
 - Jetpack Compose  
+- Navigation Compose  
+- Firebase Authentication + Firestore  
+- Validação de formulários  
 
 🔗 https://github.com/Abelpozza/AnotherTest
 
 ---
 
-### 📲 Navigation Menu App
-App Android com navegação entre telas.
+### 📱 ComposeNavigator (UI + Navegação)
+Aplicação Android focada em construção de interfaces modernas e navegação entre telas.
+
+- Jetpack Compose  
 - Navigation Compose  
-- Estrutura modular  
+- Componentes reutilizáveis  
+- UI declarativa sem XML  
 
 🔗 https://github.com/Abelpozza/JETPACK-Project
-
----
-
-### 💊 App Medicamentos
-Projeto Android para gerenciamento de medicamentos.
-- Arquitetura organizada  
-- Integração com backend  
 
 ---
 
 ## 📫 Contato
 
 📧 abelfloripa2000@gmail.com  
-🔗 https://www.linkedin.com/in/abel-antônio-pozza/
+🔗 https://www.linkedin.com/in/devabelpozza/
 
 ---
 
-⭐ Sempre buscando evoluir como desenvolvedor e contribuir com soluções eficientes.
+⭐ Sempre buscando evoluir como desenvolvedor e contribuir com soluções reais e eficientes.
