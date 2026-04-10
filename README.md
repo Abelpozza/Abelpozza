@@ -20,17 +20,6 @@ Além disso, utilizo **IA aplicada ao desenvolvimento** para acelerar entregas, 
 
 ---
 
-## 📊 Atividade no GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abelpozza&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelpozza&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🤖 IA aplicada ao desenvolvimento
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
