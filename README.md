@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Abel Pozza
 
 💻 Desenvolvedor Backend e Android  
-🚀 Kotlin | Spring Boot | PostgreSQL | Jetpack Compose  
+🚀 Kotlin | Java | Spring Boot | PostgreSQL | Jetpack Compose  
 📍 Florianópolis - SC  
 
 ---
