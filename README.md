@@ -7,7 +7,7 @@
 
 ## Sobre
 
-Desenvolvedor backend focado em **Kotlin/Java e Spring Boot**, atuando na construção de APIs REST com arquitetura em camadas (Controller → Service → Repository), integração com banco de dados relacional e processamento de eventos em tempo real.
+Desenvolvedor backend focado em **Kotlin/Java**, atuando na construção de APIs REST com arquitetura em camadas (Controller → Service → Repository), integração com banco de dados relacional e processamento de eventos em tempo real.
 
 Meu background como suporte N2 me deu uma visão direta de sistemas em produção: sei diagnosticar problemas reais, entender regras de negócio complexas e construir soluções que de fato funcionam sob pressão.
 
