@@ -1,118 +1,98 @@
-# 👋 Olá, eu sou o Abel Pozza
+```
+╔══════════════════════════════════════════════════════╗
+║  Abel Pozza · Backend Engineer                       ║
+║  Kotlin · Spring Boot · REST APIs · PostgreSQL       ║
+╚══════════════════════════════════════════════════════╝
+```
 
-💻 Desenvolvedor Backend e Android  
-🚀 Kotlin | Java | Spring Boot | PostgreSQL | Jetpack Compose  
-📍 Florianópolis - SC  
+## Sobre
 
----
+Desenvolvedor backend focado em **Kotlin e Spring Boot**, atuando na construção de APIs REST com arquitetura em camadas (Controller → Service → Repository), integração com banco de dados relacional e processamento de eventos em tempo real.
 
-## 🧠 Sobre mim
+Meu background como suporte N2 me deu uma visão direta de sistemas em produção: sei diagnosticar problemas reais, entender regras de negócio complexas e construir soluções que de fato funcionam sob pressão.
 
-Desenvolvedor com foco em **Backend utilizando Kotlin e Spring Boot**, atuando na construção de **APIs REST**, integração com banco de dados e implementação de regras de negócio com preocupação em performance e consistência.
-
-Tenho experiência prática com arquitetura em camadas (**Controller, Service, Repository**), modelagem de dados e processamento de eventos em tempo real.
-
-Também desenvolvo aplicações **Android com Jetpack Compose**, criando interfaces modernas e conectadas diretamente com APIs.
-
-Minha base como suporte N2 me trouxe uma visão forte de **análise de problemas, sistemas em produção e regras de negócio reais**.
-
-Além disso, utilizo **IA aplicada ao desenvolvimento** para acelerar entregas, analisar código e aumentar produtividade, sempre validando criticamente as soluções.
+Também desenvolvo apps **Android com Jetpack Compose**, integrados às minhas próprias APIs.
 
 ---
 
-## 🤖 IA aplicada ao desenvolvimento
+## Stack
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-1E1E1E?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-
-- Uso de IA no dia a dia para acelerar desenvolvimento backend e mobile  
-- Apoio na construção de APIs, lógica de negócio e modelagem de dados  
-- Debug e análise de erros em aplicações reais  
-- Refatoração e melhoria de código com boas práticas  
-- Aumento de produtividade com validação crítica das soluções  
+```kotlin
+val stack = mapOf(
+    "backend"   to listOf("Kotlin", "Spring Boot", "REST API", "JPA/Hibernate"),
+    "database"  to listOf("PostgreSQL", "SQL", "Firebird"),
+    "mobile"    to listOf("Android", "Jetpack Compose", "Navigation Compose", "Firebase"),
+    "infra"     to listOf("Docker", "Git", "Postman", "Webhook")
+)
+```
 
 ---
 
-## 🚀 Tecnologias
+## Projetos
 
-### 💻 Backend (foco principal)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+### `parking-api` — Gerenciamento de Estacionamento (Backend)
+> API REST para controle operacional de estacionamento em tempo real
 
-### 📱 Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+Controle de vagas, entrada/saída de veículos e cálculo de faturamento com processamento via Webhook. Regras de negócio aplicadas na camada de serviço com consistência garantida pelo PostgreSQL.
 
-### 🗄️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![Firebird](https://img.shields.io/badge/Firebird-FF6C37?style=for-the-badge)
-
-### ⚙️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Stack:** Kotlin · Spring Boot · PostgreSQL · JPA/Hibernate · Docker · Postman  
+🔗 [github.com/Abelpozza/parking-api](https://github.com/Abelpozza/parking-api)
 
 ---
 
-## 🚀 Projetos em destaque
+### `flowfood-api` — Sistema de Delivery (Backend)
+> API RESTful de delivery com state machine e regras de negócio reais
 
-### 🚗 Parking Management API (Backend)
-API para gerenciamento de estacionamento com controle de vagas, entrada/saída de veículos e cálculo de faturamento em tempo real.
+Gerenciamento completo de restaurantes, produtos e pedidos. Destaque para a state machine de status de pedido — transições inválidas são bloqueadas automaticamente (`CREATED → CONFIRMED → DELIVERED`, com cancelamento restrito a estados permitidos). Cálculo automático do valor total e validação de existência de entidades antes de persistir pedidos.
 
-- Kotlin + Spring Boot  
-- PostgreSQL + JPA/Hibernate  
-- Processamento de eventos via Webhook  
-- Regras de negócio (ocupação, faturamento, controle de vagas)  
-- Docker + Postman  
-
-🔗 https://github.com/Abelpozza/parking-api 
+**Stack:** Kotlin · Spring Boot · PostgreSQL · Spring Data JPA · Hibernate · Jakarta Validation  
+🔗 [github.com/Abelpozza/flowfood-api](https://github.com/Abelpozza/flowfood-api)
 
 ---
 
-### 📊 Parking Interface (Dashboard)
-Interface integrada ao backend para visualização de veículos, vagas e faturamento.
+### `interfaceEstacionamento` — Dashboard Integrado
+> Frontend conectado ao backend de estacionamento
 
-- Integração com API backend  
-- Visualização em tempo real  
-- Sincronização com PostgreSQL  
+Interface em tempo real para visualização de ocupação, histórico de veículos e faturamento, integrada diretamente via API e sincronizada com o PostgreSQL.
 
-🔗 https://github.com/Abelpozza/interfaceEstacionamento
+🔗 [github.com/Abelpozza/interfaceEstacionamento](https://github.com/Abelpozza/interfaceEstacionamento)
 
 ---
 
-### 🔐 AuthFlow Android (Firebase + Compose)
-Aplicação Android com autenticação de usuários e navegação entre telas.
+### `AuthFlow Android` — Autenticação com Firebase + Compose
+> App Android com fluxo completo de autenticação
 
-- Jetpack Compose  
-- Navigation Compose  
-- Firebase Authentication + Firestore  
-- Validação de formulários  
+Login, cadastro, navegação entre telas e validação de formulários usando Jetpack Compose e Firebase Authentication + Firestore.
 
-🔗 https://github.com/Abelpozza/AnotherTest
+**Stack:** Kotlin · Jetpack Compose · Navigation Compose · Firebase  
+🔗 [github.com/Abelpozza/AnotherTest](https://github.com/Abelpozza/AnotherTest)
 
 ---
 
-### 📱 ComposeNavigator (UI + Navegação)
-Aplicação Android focada em construção de interfaces modernas.
+### `ComposeNavigator` — UI e Navegação no Android
+> Estudo aplicado de arquitetura de UI declarativa
 
-- Jetpack Compose  
-- Navigation Compose  
-- Componentes reutilizáveis  
-- UI declarativa  
+Componentes reutilizáveis, navegação entre telas e boas práticas de UI com Jetpack Compose.
 
-🔗 https://github.com/Abelpozza/JETPACK-Project
+🔗 [github.com/Abelpozza/JETPACK-Project](https://github.com/Abelpozza/JETPACK-Project)
 
 ---
 
-## 📫 Contato
+## O que me diferencia
+
+- **Background em suporte N2** → entendo sistemas em produção, não só ambientes de desenvolvimento
+- **Foco em backend com propósito** → código orientado a regras de negócio reais, não só CRUD
+- **IA como ferramenta, não muleta** → uso ChatGPT, Claude e GitHub Copilot para acelerar, mas valido criticamente cada solução
+- **Backend + Mobile** → consigo construir a API e o app que a consome
+
+---
+
+## Contato
 
 📧 abelfloripa2000@gmail.com  
-🔗 https://www.linkedin.com/in/devabelpozza/
+💼 [linkedin.com/in/devabelpozza](https://www.linkedin.com/in/devabelpozza/)  
+📍 Florianópolis, SC
 
 ---
 
-⭐ Focado em evoluir como desenvolvedor backend e construir soluções reais com impacto.
+*Focado em evoluir como engenheiro backend e construir soluções que funcionam em produção.*
