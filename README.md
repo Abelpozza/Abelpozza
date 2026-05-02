@@ -90,6 +90,7 @@ Exploração prática de composição de telas, navegação entre destinos e con
 📧 abelfloripa2000@gmail.com  
 💼 [linkedin.com/in/devabelpozza](https://www.linkedin.com/in/devabelpozza/)  
 📞 (48) 98464-5675
+
 📍 Florianópolis, SC
 
 ---
