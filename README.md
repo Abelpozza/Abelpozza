@@ -7,7 +7,7 @@
 
 ## Sobre
 
-Desenvolvedor backend focado em **Kotlin/Java**, atuando na construção de APIs REST com arquitetura em camadas (Controller → Service → Repository), integração com banco de dados relacional e processamento de eventos em tempo real.
+Desenvolvedor backend focado em **Kotlin e Java**, atuando na construção de APIs REST com arquitetura em camadas (Controller → Service → Repository), integração com banco de dados relacional e processamento de eventos em tempo real.
 
 Meu background como suporte N2 me deu uma visão direta de sistemas em produção: sei diagnosticar problemas reais, entender regras de negócio complexas e construir soluções que de fato funcionam sob pressão.
 
@@ -19,7 +19,7 @@ Também desenvolvo apps **Android com Jetpack Compose**, integrados às minhas p
 
 | Categoria | Tecnologias |
 |-----------|------------|
-| 💻 Backend | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat-square) |
+| 💻 Backend | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat-square) |
 | 🗄️ Banco de Dados | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square) ![Firebird](https://img.shields.io/badge/Firebird-FF6C37?style=flat-square) |
 | 📱 Mobile | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 | ⚙️ Infra | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
