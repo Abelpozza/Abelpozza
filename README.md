@@ -1,7 +1,8 @@
 ```
 ╔══════════════════════════════════════════════════════╗
-║  Abel Pozza · Backend/Mobile Developer                      ║
-║  Kotlin · Spring Boot · REST APIs · PostgreSQL       ║
+║  Abel Pozza · Backend/Mobile Developer               ║
+║  Kotlin · Spring Boot · REST APIs · PostgreSQL ·     ║
+║ Jetpack Compose                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
