@@ -1,6 +1,6 @@
 ```
 ╔══════════════════════════════════════════════════════╗
-║  Abel Pozza · Backend Developer                      ║
+║  Abel Pozza · Backend/Mobile Developer                      ║
 ║  Kotlin · Spring Boot · REST APIs · PostgreSQL       ║
 ╚══════════════════════════════════════════════════════╝
 ```
