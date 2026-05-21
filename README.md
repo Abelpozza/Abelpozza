@@ -23,7 +23,7 @@ Tenho forte atuação entre backend e mobile, construindo APIs e aplicações co
 ## Main Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,spring,android,flutter,postgres,docker,aws,firebase,git,gradle" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,spring,androidstudio,flutter,postgres,docker,aws,firebase,git" />
 </p>
 
 ---
