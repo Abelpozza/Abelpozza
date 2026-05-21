@@ -37,10 +37,10 @@ REST API para gerenciamento de estacionamento em tempo real com processamento de
 
 ---
 
-### 🍔 FlowFood API
+### 🍔 FlowFood
 Sistema de delivery com state machine e arquitetura limpa utilizando Kotlin + Spring Boot.
 
-🔗 https://github.com/Abelpozza/flowfood-api
+🔗 https://github.com/Abelpozza/flowfood
 
 ---
 
