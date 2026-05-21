@@ -1,4 +1,3 @@
-
 <h1 align="center">Abel Pozza</h1>
 
 <p align="center">
@@ -24,21 +23,7 @@ Tenho forte atuação entre backend e mobile, construindo APIs e aplicações co
 ## Main Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,spring,androidstudio,flutter,postgres,docker,aws,firebase,git" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,spring,android,flutter,postgres,docker,aws,firebase,git,gradle" />
 </p>
 
 ---
@@ -48,28 +33,37 @@ Tenho forte atuação entre backend e mobile, construindo APIs e aplicações co
 ### 🚗 Parking API
 REST API para gerenciamento de estacionamento em tempo real com processamento de eventos, PostgreSQL e Docker.
 
-🔗 https://github.com/SEU_USUARIO/parking-api
+🔗 https://github.com/Abelpozza/parking-api
 
 ---
 
 ### 🍔 FlowFood API
 Sistema de delivery com state machine e arquitetura limpa utilizando Kotlin + Spring Boot.
 
-🔗 https://github.com/SEU_USUARIO/flowfood-api
+🔗 https://github.com/Abelpozza/flowfood-api
+
+---
+
+### 🧠 Psic App
+Aplicação mobile voltada para acompanhamento psicológico, organização de sessões e experiência centrada no usuário.
+
+Desenvolvido com foco em arquitetura limpa, navegação fluida e organização escalável de código.
+
+🔗 https://github.com/Devluizpozza/psic_app
 
 ---
 
 ### 📱 AuthFlow Android
 Aplicação Android com Jetpack Compose + Firebase Authentication.
 
-🔗 https://github.com/SEU_USUARIO/AnotherTest
+🔗 https://github.com/Abelpozza/AnotherTest
 
 ---
 
 ### 📲 ComposeNavigator
 Projeto focado em navegação e UI declarativa utilizando Jetpack Compose.
 
-🔗 https://github.com/SEU_USUARIO/JETPACK-Project
+🔗 https://github.com/Abelpozza/JETPACK-Project
 
 ---
 
@@ -97,7 +91,7 @@ Projeto focado em navegação e UI declarativa utilizando Jetpack Compose.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:abelfloripa2000@gmail.com">
+  <a href="mailto:abelfloripa2000@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
