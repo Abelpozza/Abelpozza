@@ -101,4 +101,4 @@ Projeto focado em navegação e UI declarativa utilizando Jetpack Compose.
 <p align="center">
   Focused on building scalable backend and mobile applications.
 </p>
-```
+
