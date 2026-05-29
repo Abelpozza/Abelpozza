@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Kotlin • Spring Boot • Android • AWS • Clean Architecture
+  Kotlin • Java • Spring Boot • Android • AWS • Clean Architecture • SQL • SOLID
 </p>
 
 ---
