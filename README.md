@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Abel Pozza
+#  Abel Pozza
 
 ### Software Engineer focused on scalable systems and event-driven architecture
 
