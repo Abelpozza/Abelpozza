@@ -1,90 +1,183 @@
-<h1 align="center">Abel Pozza</h1>
+<div align="center">
 
-<p align="center">
-  Backend & Mobile Developer
-</p>
+# ⚡ Abel Pozza
 
-<p align="center">
-  Kotlin • Java • Spring Boot • Android • AWS • Clean Architecture • SQL • SOLID
-</p>
+### Software Engineer focused on scalable systems and event-driven architecture
 
----
+Kotlin • Java • Spring Boot • Kafka • PostgreSQL • Docker • AWS
 
-## About Me
-
-Desenvolvedor Kotlin focado em aplicações backend e mobile.
-
-Experiência com construção de APIs REST, arquitetura limpa, integração de serviços cloud, Android nativo com Jetpack Compose e aplicações escaláveis utilizando Spring Boot.
-
-Tenho forte atuação entre backend e mobile, construindo APIs e aplicações completas com foco em performance, organização de código e experiência do usuário.
+</div>
 
 ---
 
-## Main Stack
+```bash
+$ whoami
+```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,spring,androidstudio,flutter,postgres,docker,aws,firebase,git" />
-</p>
+Software Engineer com foco em desenvolvimento de APIs escaláveis, processamento de eventos e arquitetura de software.
+
+Atuo principalmente com Kotlin, Java e Spring Boot, construindo sistemas resilientes, integrações robustas e soluções voltadas para performance, consistência e escalabilidade.
+
+Atualmente aprofundando conhecimentos em sistemas distribuídos, mensageria, cloud e arquitetura orientada a eventos.
 
 ---
 
-## Featured Projects
+```bash
+$ cat stack.json
+```
 
-### 🚗 Parking API
-REST API para gerenciamento de estacionamento em tempo real com processamento de eventos, PostgreSQL e Docker.
+```json
+{
+  "languages": [
+    "Kotlin",
+    "Java"
+  ],
+
+  "backend": [
+    "Spring Boot",
+    "REST APIs",
+    "JPA",
+    "Hibernate"
+  ],
+
+  "messaging": [
+    "Kafka",
+    "RabbitMQ"
+  ],
+
+  "database": [
+    "PostgreSQL",
+    "SQL"
+  ],
+
+  "cloud": [
+    "AWS",
+    "Docker"
+  ],
+
+  "architecture": [
+    "Clean Architecture",
+    "SOLID",
+    "Event-Driven Systems"
+  ]
+}
+```
+
+---
+
+```bash
+$ system_status
+```
+
+```text
+API Design.................OK
+Clean Architecture.........OK
+Event Processing...........OK
+Scalability................OK
+PostgreSQL.................OK
+Docker.....................OK
+AWS........................OK
+Continuous Learning........RUNNING
+```
+
+---
+
+```bash
+$ ls projects
+```
+
+### 🚗 parking-api
+
+```text
+real-time parking management system
+event processing + PostgreSQL + Docker
+```
 
 🔗 https://github.com/Abelpozza/parking-api
 
 ---
 
-### 🍔 FlowFood
-Sistema de delivery com state machine e arquitetura limpa utilizando Kotlin + Spring Boot.
+### 🍔 flowfood
+
+```text
+food delivery backend
+state machine + clean architecture
+```
 
 🔗 https://github.com/Abelpozza/flowfood
 
 ---
 
-### 🧠 Psic App
-Aplicação mobile voltada para acompanhamento psicológico, organização de sessões e experiência centrada no usuário.
+### 🧠 psic_app
 
-Desenvolvido com foco em arquitetura limpa, navegação fluida e organização escalável de código.
+```text
+mobile application focused on psychology sessions
+clean architecture + scalable structure
+```
 
 🔗 https://github.com/Devluizpozza/psic_app
 
 ---
 
-### 📱 AuthFlow Android
-Aplicação Android com Jetpack Compose + Firebase Authentication.
+### 📱 authflow-android
+
+```text
+android authentication flow
+jetpack compose + firebase authentication
+```
 
 🔗 https://github.com/Abelpozza/AnotherTest
 
 ---
 
-### 📲 ComposeNavigator
-Projeto focado em navegação e UI declarativa utilizando Jetpack Compose.
+### 📲 compose-navigator
+
+```text
+navigation patterns and declarative UI
+jetpack compose
+```
 
 🔗 https://github.com/Abelpozza/JETPACK-Project
 
 ---
 
-## Technologies & Concepts
+```bash
+$ load tech_icons
+```
 
-- Kotlin & Java
-- Spring Boot
-- REST APIs
-- PostgreSQL
-- Docker
-- AWS
-- Android Development
-- Jetpack Compose
-- Flutter
-- Firebase
-- Clean Architecture
-- Git & Version Control
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,spring,postgres,docker,aws,firebase,flutter,androidstudio,git" />
+</p>
 
 ---
 
-## Connect With Me
+```bash
+$ github_stats
+```
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abelpozza&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelpozza&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+```bash
+$ watch contributions --snake
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+```bash
+$ contact.sh
+```
 
 <p align="left">
   <a href="https://www.linkedin.com/in/devabelpozza/" target="_blank">
@@ -96,9 +189,24 @@ Projeto focado em navegação e UI declarativa utilizando Jetpack Compose.
   </a>
 </p>
 
+```text
+linkedin : linkedin.com/in/devabelpozza
+email    : abelfloripa2000@gmail.com
+location : Florianópolis - SC
+```
+
 ---
 
-<p align="center">
-  Focused on building scalable backend and mobile applications.
-</p>
+```java
+while (alive) {
+    learn();
+    build();
+    improve();
+}
+```
 
+<div align="center">
+
+### Building scalable software, one commit at a time.
+
+</div>
