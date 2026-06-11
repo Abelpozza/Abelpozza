@@ -151,7 +151,7 @@ Failure recovery
 Scalable architecture
 ```
 
-🔗 https://github.com/Abelpozza/stock-reconciliation-marketplace
+🔗 github.com/Abelpozza/stock-reconciliation-marketplace
 
 ---
 
