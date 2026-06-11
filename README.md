@@ -1,204 +1,249 @@
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Abel Pozza
+
 <div align="center">
 
-#  Abel Pozza
+### Software Engineer
 
-### Software Engineer focused on scalable systems and event-driven architecture
+Building resilient systems, event-driven architectures and scalable backend solutions.
 
-Kotlin • Java • Spring Boot • Kafka • PostgreSQL • Docker • AWS
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=2500&color=7C3AED&center=true&vCenter=true&width=900&lines=Designing+scalable+APIs;Event-Driven+Architecture;Distributed+Systems+Enthusiast;Kotlin+%7C+Java+%7C+Spring+Boot;Always+learning+something+new" />
+</p>
 
 </div>
 
 ---
 
-```bash
-$ whoami
-```
+## System Overview
 
-Software Engineer com foco em desenvolvimento de APIs escaláveis, processamento de eventos e arquitetura de software.
+```yaml
+engineer:
+  name: Abel Pozza
+  role: Software Engineer
 
-Atuo principalmente com Kotlin, Java e Spring Boot, construindo sistemas resilientes, integrações robustas e soluções voltadas para performance, consistência e escalabilidade.
+focus:
+  - Backend Engineering
+  - Distributed Systems
+  - Event-Driven Architecture
+  - Scalability
+  - Cloud Native Applications
 
-Atualmente aprofundando conhecimentos em sistemas distribuídos, mensageria, cloud e arquitetura orientada a eventos.
+currently_learning:
+  - Kafka Internals
+  - Distributed Transactions
+  - System Design
+  - AWS Architecture Patterns
 
----
-
-```bash
-$ cat stack.json
-```
-
-```json
-{
-  "languages": [
-    "Kotlin",
-    "Java"
-  ],
-
-  "backend": [
-    "Spring Boot",
-    "REST APIs",
-    "JPA",
-    "Hibernate"
-  ],
-
-  "messaging": [
-    "Kafka",
-    "RabbitMQ"
-  ],
-
-  "database": [
-    "PostgreSQL",
-    "SQL"
-  ],
-
-  "cloud": [
-    "AWS",
-    "Docker"
-  ],
-
-  "architecture": [
-    "Clean Architecture",
-    "SOLID",
-    "Event-Driven Systems"
-  ]
-}
+location:
+  - Florianópolis, Brazil
 ```
 
 ---
 
-```bash
-$ system_status
-```
+## Architecture Mindset
 
 ```text
-API Design.................OK
-Clean Architecture.........OK
-Event Processing...........OK
-Scalability................OK
-PostgreSQL.................OK
-Docker.....................OK
-AWS........................OK
-Continuous Learning........RUNNING
+                   ┌──────────────┐
+                   │    CLIENT    │
+                   └──────┬───────┘
+                          │
+                          ▼
+                ┌───────────────────┐
+                │      API Layer    │
+                └─────────┬─────────┘
+                          │
+                          ▼
+                ┌───────────────────┐
+                │ Business Rules    │
+                │ Clean Architecture│
+                └─────────┬─────────┘
+                          │
+            ┌─────────────┴─────────────┐
+            ▼                           ▼
+    ┌──────────────┐            ┌──────────────┐
+    │ PostgreSQL   │            │ Kafka Events │
+    └──────────────┘            └──────────────┘
 ```
+
+I enjoy solving problems involving consistency, event processing, reliability, scalability and software architecture.
 
 ---
 
-```bash
-$ ls projects
-```
+## Tech Radar
 
-### 🚗 parking-api
+### Languages
 
-```text
-real-time parking management system
-event processing + PostgreSQL + Docker
-```
-
-🔗 https://github.com/Abelpozza/parking-api
-
----
-
-### 🍔 flowfood
-
-```text
-food delivery backend
-state machine + clean architecture
-```
-
-🔗 https://github.com/Abelpozza/flowfood
-
----
-
-### 🧠 psic_app
-
-```text
-mobile application focused on psychology sessions
-clean architecture + scalable structure
-```
-
-🔗 https://github.com/Devluizpozza/psic_app
-
----
-
-### 📱 authflow-android
-
-```text
-android authentication flow
-jetpack compose + firebase authentication
-```
-
-🔗 https://github.com/Abelpozza/AnotherTest
-
----
-
-### 📲 compose-navigator
-
-```text
-navigation patterns and declarative UI
-jetpack compose
-```
-
-🔗 https://github.com/Abelpozza/JETPACK-Project
-
----
-
-```bash
-$ load tech_icons
-```
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,spring,postgres,docker,aws,firebase,flutter,androidstudio,git" />
+<p>
+<img src="https://skillicons.dev/icons?i=kotlin,java"/>
 </p>
 
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring"/>
+</p>
+
+Spring Boot • REST APIs • JPA • Hibernate • Security • Validation
+
+### Messaging & Event Streaming
+
+```text
+Kafka
+RabbitMQ
+Event-Driven Systems
+Asynchronous Processing
+Idempotency
+Retry Strategies
+Dead Letter Queues
+```
+
+### Data Layer
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres"/>
+</p>
+
+PostgreSQL • Query Optimization • Data Modeling
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,git"/>
+</p>
+
+Docker • AWS • CI/CD • Containerized Applications
+
 ---
 
+## Production Status
+
 ```bash
-$ github_stats
+$ systemctl status engineer
 ```
+
+```text
+● Abel Pozza.service
+
+Status: RUNNING
+
+API Design....................ONLINE
+Software Architecture.........ONLINE
+Event Processing..............ONLINE
+Database Design...............ONLINE
+Cloud Computing...............ONLINE
+Problem Solving...............ONLINE
+
+Learning New Things...........ALWAYS
+```
+
+---
+
+## Featured Projects
+
+### Reconciliação Marketplace
+
+```text
+Marketplace financial reconciliation
+Event processing
+State transitions
+Consistency control
+Failure recovery
+Scalable architecture
+```
+
+🔗 https://github.com/Abelpozza/stock-reconciliation-marketplace
+
+---
+
+### FlowFood
+
+```text
+Food delivery backend
+
+Order lifecycle
+State machine
+Clean architecture
+Business driven design
+```
+
+🔗 github.com/Abelpozza/flowfood
+
+---
+
+### Parking API
+
+```text
+Real-time parking management
+
+PostgreSQL
+Docker
+REST APIs
+Scalable backend structure
+```
+
+🔗 github.com/Abelpozza/parking-api
+
+---
+
+### Psic App
+
+```text
+Psychology appointment platform
+
+Flutter
+Clean Architecture
+Scalable project structure
+```
+
+🔗 github.com/Devluizpozza/psic_app
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Abelpozza&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abelpozza&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelpozza&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelpozza&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-```bash
-$ watch contributions --snake
-```
+## Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-```bash
-$ contact.sh
-```
+## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/devabelpozza/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center">
 
-  <a href="mailto:abelfloripa2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/devabelpozza/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abelfloripa2000@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
-```text
-linkedin : linkedin.com/in/devabelpozza
-email    : abelfloripa2000@gmail.com
-location : Florianópolis - SC
+```yaml
+linkedin: devabelpozza
+email: abelfloripa2000@gmail.com
+role: Software Engineer
+focus: Backend & Distributed Systems
 ```
 
 ---
 
 ```java
-while (alive) {
+while(true){
     learn();
     build();
     improve();
@@ -207,6 +252,6 @@ while (alive) {
 
 <div align="center">
 
-### Building scalable software, one commit at a time.
+### Engineering software that remains reliable when things go wrong.
 
 </div>
