@@ -1,257 +1,113 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Abel Pozza
+#  Abel Pozza
 
-<div align="center">
+### Backend Developer • Kotlin • Java • Spring Boot
 
-### Software Engineer
-
-Building resilient systems, event-driven architectures and scalable backend solutions.
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=2500&color=7C3AED&center=true&vCenter=true&width=900&lines=Designing+scalable+APIs;Event-Driven+Architecture;Distributed+Systems+Enthusiast;Kotlin+%7C+Java+%7C+Spring+Boot;Always+learning+something+new" />
-</p>
-
-</div>
+I build backend applications focused on consistency, event processing and reliable business workflows.
 
 ---
 
-## System Overview
+## About
 
-```yaml
-engineer:
-  name: Abel Pozza
-  role: Software Engineer
+Backend developer with experience building APIs, business-driven applications and event-based systems using Kotlin, Java and Spring Boot.
 
-focus:
-  - Backend Engineering
-  - Distributed Systems
-  - Event-Driven Architecture
-  - Scalability
-  - Cloud Native Applications
+I enjoy working on problems involving:
 
-currently_learning:
-  - Kafka Internals
-  - Distributed Transactions
-  - System Design
-  - AWS Architecture Patterns
-
-location:
-  - Florianópolis, Brazil
-```
+* Data consistency
+* Event processing
+* System reliability
+* Business rules
+* Software architecture
 
 ---
 
-## Architecture Mindset
+## Technologies
 
 ```text
-                   ┌──────────────┐
-                   │    CLIENT    │
-                   └──────┬───────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │      API Layer    │
-                └─────────┬─────────┘
-                          │
-                          ▼
-                ┌───────────────────┐
-                │ Business Rules    │
-                │ Clean Architecture│
-                └─────────┬─────────┘
-                          │
-            ┌─────────────┴─────────────┐
-            ▼                           ▼
-    ┌──────────────┐            ┌──────────────┐
-    │ PostgreSQL   │            │ Kafka Events │
-    └──────────────┘            └──────────────┘
-```
+Backend
+├── Kotlin
+├── Java
+├── Spring Boot
+├── JPA / Hibernate
+└── REST APIs
 
-I enjoy solving problems involving consistency, event processing, reliability, scalability and software architecture.
+Data
+├── PostgreSQL
+├── SQL
+└── Flyway
 
----
+Infrastructure
+├── Docker
+├── Git
+└── AWS
 
-## Tech Radar
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=kotlin,java"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring"/>
-</p>
-
-Spring Boot • REST APIs • JPA • Hibernate • Security • Validation
-
-### Messaging & Event Streaming
-
-```text
-Kafka
-RabbitMQ
-Event-Driven Systems
-Asynchronous Processing
-Idempotency
-Retry Strategies
-Dead Letter Queues
-```
-
-### Data Layer
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres"/>
-</p>
-
-PostgreSQL • Query Optimization • Data Modeling
-
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git"/>
-</p>
-
-Docker • AWS • CI/CD • Containerized Applications
-
----
-
-## Production Status
-
-```bash
-$ systemctl status engineer
-```
-
-```text
-● Abel Pozza.service
-
-Status: RUNNING
-
-API Design....................ONLINE
-Software Architecture.........ONLINE
-Event Processing..............ONLINE
-Database Design...............ONLINE
-Cloud Computing...............ONLINE
-Problem Solving...............ONLINE
-
-Learning New Things...........ALWAYS
+Architecture
+├── Clean Architecture
+├── Event-Driven Systems
+├── Idempotency
+├── Concurrency Control
+└── Distributed Systems
 ```
 
 ---
 
-## Featured Projects
+## Projects
 
-### Reconciliação Marketplace
+### Marketplace Stock Reconciliation
 
-```text
-Marketplace financial reconciliation
-Event processing
-State transitions
-Consistency control
-Failure recovery
-Scalable architecture
-```
+Service responsible for processing marketplace inventory events while maintaining stock consistency.
 
-🔗 github.com/Abelpozza/stock-reconciliation-marketplace
+Key concepts:
+
+* Event Processing
+* Idempotency
+* Pending Event Reprocessing
+* Audit Trail
+* Concurrency Control
+* PostgreSQL
+* Docker
+
+---
+
+### Parking Management API
+
+Backend application responsible for parking operations and event tracking.
+
+Key concepts:
+
+* REST APIs
+* PostgreSQL
+* Docker
+* Layered Architecture
 
 ---
 
 ### FlowFood
 
-```text
-Food delivery backend
+Food delivery backend focused on order lifecycle management and business rules implementation.
 
-Order lifecycle
-State machine
-Clean architecture
-Business driven design
-```
+Key concepts:
 
-🔗 github.com/Abelpozza/flowfood
+* Order Processing
+* Domain Modeling
+* Clean Architecture
 
 ---
 
-### Parking API
-
-```text
-Real-time parking management
-
-PostgreSQL
-Docker
-REST APIs
-Scalable backend structure
-```
-
-🔗 github.com/Abelpozza/parking-api
-
----
-
-### Psic App
-
-```text
-Psychology appointment platform
-
-Flutter
-Clean Architecture
-Scalable project structure
-```
-
-🔗 github.com/Devluizpozza/psic_app
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abelpozza&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelpozza&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Graph
+## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abelpozza&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abelpozza&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Connect
+## Contact
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/devabelpozza/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:abelfloripa2000@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-```yaml
-linkedin: devabelpozza
-email: abelfloripa2000@gmail.com
-role: Software Engineer
-focus: Backend & Distributed Systems
-```
+* LinkedIn → linkedin.com/in/devabelpozza
+* Email → [abelfloripa2000@gmail.com](mailto:abelfloripa2000@gmail.com)
 
 ---
 
-```java
-while(true){
-    learn();
-    build();
-    improve();
-}
-```
-
-<div align="center">
-
-### Engineering software that remains reliable when things go wrong.
-
-</div>
+> Building software is easy.
+> Building software that remains consistent is where the challenge begins.
